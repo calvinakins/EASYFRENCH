@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<!-- Primary color of the app (shown in the app bar) -->
+<color name="primary_color">#3F51B5</color>
+
+<!-- Primary dark color of the app (shown in the status bar) -->
+<color name="primary_dark_color">#303F9F</color>
+
+<!-- Background color for app -->
+<color name="colorAccent">#BC6081</color>
+<color name="tan_background">#FFF7DA</color>
+
+<!-- Background color for the numbers category -->
+<color name="category_numbers">#FD8E09</color>
+
+<!-- Background color for the idioms members category -->
+<color name="category_idioms">#379237</color>
+
+<!-- Background color for the colors category -->
+<color name="category_colors">#8800A0</color>
+
+<!-- Background color for the phrases category -->
+<color name="category_phrases">#16AFCA</color>
+
+<!-- Background color for the conjugations category -->
+<color name="category_conjugations">#F7DA</color>
+</resources>
+

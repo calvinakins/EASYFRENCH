@@ -1,0 +1,25 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">EASY FRENCH</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for Conjugations [CHAR LIMIT=20] -->
+    <string name="category_conjugations">Conjugations</string>
+
+    <!-- Category name for the vocabulary words for Idioms  [CHAR LIMIT=20] -->
+    <string name="category_idioms">Idioms</string>
+    <string name="category_phrase">Phrases</string>
+    <string name="action_settings">Settings</string>
+    <string name="app">About App</string>
+    <string name="exit">Exit</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
